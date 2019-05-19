@@ -1,0 +1,5 @@
+You can use any C++ IDE you wish to do your assignments in this course as long as the code you
+submit compiles and executes on the CSIL computers. Why? Because your assignments will be
+marked using this platform (Linux and C++ - version running on CSIL computers). So, the
+suggestion is to compile and execute your code using your makefile (g++) at the Linux command
+line in CSIL before you submit your assignment to CourSys.
